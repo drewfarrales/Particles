@@ -1,0 +1,32 @@
+﻿  Engine.cpp
+C:\Users\drewf\source\repos\Particles\Particle.h(10,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Engine.cpp')
+  
+  Matrices.cpp
+  Particle.cpp
+C:\Users\drewf\source\repos\Particles\Particle.h(10,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Particle.cpp')
+  
+C:\Users\drewf\source\repos\Particles\Particle.cpp(155,76): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\drewf\source\repos\Particles\Particle.cpp(158,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\drewf\source\repos\Particles\Particle.cpp(158,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\drewf\source\repos\Particles\Particle.cpp(158,46): warning C4244:         with
+C:\Users\drewf\source\repos\Particles\Particle.cpp(158,46): warning C4244:         [
+C:\Users\drewf\source\repos\Particles\Particle.cpp(158,46): warning C4244:             T=unsigned int
+C:\Users\drewf\source\repos\Particles\Particle.cpp(158,46): warning C4244:         ]
+C:\Users\drewf\source\repos\Particles\Particle.cpp(216,29): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\drewf\source\repos\Particles\Particle.cpp(216,29): warning C4244:         with
+C:\Users\drewf\source\repos\Particles\Particle.cpp(216,29): warning C4244:         [
+C:\Users\drewf\source\repos\Particles\Particle.cpp(216,29): warning C4244:             T=float
+C:\Users\drewf\source\repos\Particles\Particle.cpp(216,29): warning C4244:         ]
+C:\Users\drewf\source\repos\Particles\Particle.cpp(217,29): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\drewf\source\repos\Particles\Particle.cpp(217,29): warning C4244:         with
+C:\Users\drewf\source\repos\Particles\Particle.cpp(217,29): warning C4244:         [
+C:\Users\drewf\source\repos\Particles\Particle.cpp(217,29): warning C4244:             T=float
+C:\Users\drewf\source\repos\Particles\Particle.cpp(217,29): warning C4244:         ]
+  main.cpp
+C:\Users\drewf\source\repos\Particles\Particle.h(10,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  Particles.vcxproj -> C:\Users\drewf\Source\Repos\Particles\x64\Debug\Particles.exe
